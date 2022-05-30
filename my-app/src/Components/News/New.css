@@ -1,0 +1,21 @@
+.new_img {
+    width: 100%;
+    max-width: 200px;   
+    object-fit: cover ;
+}
+
+.title_new{
+    font-size: 1rem;
+    width: 100%;
+}
+.Card_new{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+}
+
+@media screen and (max-width:768px) {
+    .new_img {
+            width: 100%;
+        }
+}
