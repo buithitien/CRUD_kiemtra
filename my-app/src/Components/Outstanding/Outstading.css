@@ -1,9 +1,0 @@
-.outstanding_img {
-    width: 100%;
-    max-width: 400px;
-}
-@media screen and (max-width:768px) {
-    .outstanding_img {
-        width: 100%;
-    }
-}

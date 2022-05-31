@@ -1,0 +1,69 @@
+
+
+
+.barContent {
+}
+.barContainer {
+  display: flex;
+  justify-content: space-between;
+  background-color: #2657af;
+  color: white;
+  padding: 20px;
+
+  font-weight: bold;
+}
+
+.container {
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.justUpdate{
+  font-size: 1.25rem;
+    line-height: 1.4375rem;
+    font-weight: 700;
+    color: #c02a29;
+}
+.headerContainer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.conatinerView {
+  display: flex;
+  flex-direction: row;
+}
+.mainContainer {
+  width: 50%;
+  padding: 10px
+}
+.subContainer {
+  width: 20%;
+  padding: 10px
+}
+.justUpdateContainer {
+  width: 30%;
+  padding: 10px
+
+}
+.mainImage {
+  object-fit: cover;
+  width: 100%;
+}
+.justUpdateImage {
+  object-fit: cover;
+  width: 50%;
+}
+
+.mainContent {
+  font-weight: bold;
+}
+.mainTitle {
+  font-weight: 700;
+  color: #0d6efd;
+  font-size: 1.76rem;
+}
+.justUpdateView {
+  display: flex;
+  flex-direction: row;
+}
